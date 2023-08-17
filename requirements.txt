@@ -1,0 +1,1 @@
+undetected-playwright==0.1.0
